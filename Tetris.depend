@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1480096203 source:c:\users\douglas\desktop\tetris 1.1\tetris 1.1\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<string.h>
+
